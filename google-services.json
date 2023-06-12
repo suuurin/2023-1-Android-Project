@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71444951358",
+    "project_id": "plucky-mile-388303",
+    "storage_bucket": "plucky-mile-388303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71444951358:android:018a7c511d62652bf7bc6f",
+        "android_client_info": {
+          "package_name": "com.example.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71444951358-8d0f4kk6rbl3lhjoc8lbmrf2m70rpenh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbIb4FphRS7J7MoUJj6K6qvWQORIVrDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71444951358-8d0f4kk6rbl3lhjoc8lbmrf2m70rpenh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
