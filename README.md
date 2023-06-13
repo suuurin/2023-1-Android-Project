@@ -3,7 +3,6 @@
 
 시연 영상: https://github.com/suuurin/2023-1-Android-Project/assets/105704623/d1545834-ef7c-426e-b9bd-6bc1e79fb68b
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/105704623/245341930-d1545834-ef7c-426e-b9bd-6bc1e79fb68b.mp4
 
 
 ![슬라이드1](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/0992c0d9-7ec2-47c3-b778-ccdf226a01f7)
