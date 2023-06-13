@@ -23,7 +23,7 @@
 ![슬라이드9](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/a235a9ff-7480-465f-a31a-2c11a1db6d65)
 ![슬라이드10](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/4a32e088-2842-492e-a0d6-071e16f73d61)
 ## 중요 코드 설명
-- 추가 코드 설명은 ppt 참조해 주세요.
+추가 코드 설명은 ppt 참조해 주세요.
 ![슬라이드14](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/27e749b5-b694-4fe9-a45d-8e323b782ac4)
 ![슬라이드15](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/dac76cbd-4f84-4cc4-b15f-bd7350fb7b03)
 ![슬라이드16](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/2ee65128-25a4-4f0c-8afa-be3092fb590c)
