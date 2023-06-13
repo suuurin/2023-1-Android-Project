@@ -10,6 +10,8 @@
 
 ![슬라이드3](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/9c526a79-2631-4414-9c5e-5719779114e7)
 
+![슬라이드4](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/3ef0476b-b32a-4a07-b143-ef079cef24a6)
+
 ![슬라이드5](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/c464145c-bee1-46c3-8ea4-16930f18a5e8)
 
 ![슬라이드6](https://github.com/suuurin/2023-1-Android-Project/assets/105704623/29b32839-4855-44ad-8fcc-e733ce2bbb41)
